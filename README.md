@@ -4,7 +4,7 @@ This depository is the source code for paper:
 
 Power Line Communication and Sensing Using Time Series Forecasting
 
-coauthored by Yinjia Huo, Gautham Prasad, Lutz Lampe and Victor Leung.
+co-authored by Yinjia Huo, Gautham Prasad, Lutz Lampe and Victor C.M. Leung.
 
 Link to paper: https://www.mdpi.com/1424-8220/22/14/5320
 
